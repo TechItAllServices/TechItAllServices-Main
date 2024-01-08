@@ -25,7 +25,7 @@ Description: Confirmation of unauthorized presence within the servers. Action: A
 
 ### Code Black: Complete Takeover
 
-Description: Servers compromised, total loss of control. Action: Immediate evacuation of all personnel from the affected domain.
+Description: Servers compromised, total loss of control. Action: Immediate evacuation of all personnel from TechItAll Services.
 
 
 ## Repostory Protcalls
