@@ -26,3 +26,23 @@ Description: Confirmation of unauthorized presence within the servers. Action: A
 ### Code Black: Complete Takeover
 
 Description: Servers compromised, total loss of control. Action: Immediate evacuation of all personnel from the affected domain.
+
+
+## Repostory Protcalls
+
+### Repo Creation
+
+They will just be shown in Imporant Update File
+
+### Repo Name Change/Mode
+
+They will just be shown in Imporant Update File
+
+### Repo Deletion
+1. Public Archive The Repo
+2. Make the Repo Private
+3. Delete the repo
+4. Log in Imporant Updates File
+
+### Repo Archive
+Archive and give reason and just say you archived it in the imporant update file.
