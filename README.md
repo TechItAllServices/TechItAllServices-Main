@@ -15,9 +15,9 @@ Description: Heightened alert for suspicious activity. Action: Individuals to be
 
 Description: Indicates an attempt to breach server access. Action: Server admins to actively intervene and prevent unauthorized entry. Increased security measures activated.
 
-### Code Orange: Impending Breach
+### ~~Code Orange: Impending Breach~~
 
-Description: Imminent threat to server integrity, potential breach imminent. Action: Admins to intensify efforts to prevent breach. Non-admins advised to move out of the repo.
+~~Description: Imminent threat to server integrity, potential breach imminent. Action: Admins to intensify efforts to prevent breach. Non-admins advised to move out of the repo.~~ (Note: Not Used Anymore!)
 
 ### Code Red: Intrusion Detected
 
