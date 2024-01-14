@@ -1,6 +1,9 @@
 # List Of All Server Systems
+AAC = Authentication and Authorization Control
 
 ACI = Admin Control Interface
+
+AFS = Alerting and Feedback System
 
 AHS = Authentication Handling Service
 
@@ -8,13 +11,21 @@ BMS = Backup Management System
 
 BPS = Backup Power Supervisor
 
+BRS = Billing and Reporting System
+
 CDM = Code Deployment Manager
+
+CDS = Compliance Detection Service
 
 CTS = Configuration Tracking System
 
 DAS = Data Analytics Sentinel
 
+DEF = Data Encryption Framework
+
 DNS = Domain Naming Service
+
+DTS = Documentation Tracking System
 
 ETS = Event Tracking System
 
@@ -26,6 +37,8 @@ FPS = Firewall Protection Suite
 
 GCS = Geolocation Control System
 
+GHI = Graphical Health Interface
+
 GTS = Graphical Task Scheduler
 
 HMS = Hardware Monitoring Hub
@@ -35,6 +48,8 @@ HIS = Health Information System
 IPS = Intrusion Prevention System
 
 ICS = Inventory Control System
+
+JKL = Job Logging Kernel
 
 JPS = Job Priority Scheduler
 
@@ -52,6 +67,8 @@ MPS = Monitoring and Performance System
 
 MDS = Memory Diagnostic Suite
 
+MNO = Maintenance Notification Organizer
+
 MSOP = Main Security Override Panel
 
 MSMC = Minecraft Server Management Console
@@ -66,7 +83,7 @@ OMS = Order Management System
 
 OPS = Optimization Processor System
 
-PDS = Password Management System
+PMS = Password Management System
 
 PQR = Performance Query Resolver
 
@@ -81,6 +98,8 @@ RFS = Resource Fulfillment System
 SCS = Storage Control System
 
 SMS = Security Monitoring Sentinel
+
+STU = System Testing Utility
 
 TRS = Task Routing System
 
@@ -105,25 +124,3 @@ YTS = Yield Tracking System
 ZAS = Zone Access Supervisor
 
 ZMS = Zone Management Service
-
-ABC = Authentication and Authorization Control
-
-AFS = Alerting and Feedback System
-
-BRS = Billing and Reporting System
-
-CDS = Compliance Detection Service
-
-DEF = Data Encryption Framework
-
-GHI = Graphical Health Interface
-
-JKL = Job Logging Kernel
-
-MNO = Maintenance Notification Organizer
-
-PDS = Password Management System
-
-STU = System Testing Utility
-
-DTS = Documentation Tracking System
