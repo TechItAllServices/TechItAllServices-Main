@@ -38,3 +38,12 @@ Servers compromised, total loss of control.
 Evacuate to the EVAC domain.
 
 All online services suspended, including TechItAll Services' websites.
+
+
+## Code NULL/ERROR
+
+Default Code Yellow.
+
+All Code Yellow Protcalls will be active.
+
+Report to server admins.
