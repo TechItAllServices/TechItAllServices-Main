@@ -28,6 +28,9 @@ Description: Confirmation of unauthorized presence within the servers. Action: A
 Description: Servers compromised, total loss of control. Action: Immediate evacuation of all personnel from TechItAll Services.
 
 
+**NOTE: For more avdanced Codes please check [The Code Protocols](https://github.com/TechItAllServices/TechItAllServices-Main/blob/main/protocols/code_protocols.md)
+
+
 ## Repostory Protcalls
 
 ### Repo Creation
