@@ -1,4 +1,13 @@
 # List Of All Server Systems
+
+========Crital Imporant========
+MSS = Main Security System
+ACI = Admin Control Interface
+BMS = Backup Magement System
+Safty Protcall = Save the servers from going into code black (Not Displayed on list under this)
+========Crital Imporant========
+
+
 AAC = Authentication and Authorization Control
 
 ACI = Admin Control Interface
