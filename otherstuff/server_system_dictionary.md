@@ -6,16 +6,35 @@
 
 MSCP = Main Server Control Pannel
 
+MSOP = Main Security Override Panel
+
 MSS = Main Security System
 
 ACI = Admin Control Interface
 
 BMS = Backup Magement System
 
-Safty Protcall = Save the servers from going into code black (Not Displayed on list under this)
+Safty Protcall = Save the servers from going into code black (Not Displayed on list under this) - Located in ACI
 
 ========Crital Imporant========
 
+---------
+
+===========Key=============
+
+Falt = Minor Code Error
+
+Failure = System failed due to error.
+
+Critical = Critical Error caused program to force stop.
+
+===Unwated User===
+
+Secuirty Flag = Somthing triggered a security flag. Like walking into a gate and a alarm going off.
+
+Hacked = Somebody took over or broke the system.
+
+========Crital Imporant========
 
 AAC = Authentication and Authorization Control
 
