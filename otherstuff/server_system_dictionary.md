@@ -1,6 +1,9 @@
 # List Of All Server Systems
 
 ========Crital Imporant========
+**MCI = MAIN CONTROL INTERFACE** - This really IS the servers! (not listed in list under this)
+
+MSCP = Main Server Control Pannel
 
 MSS = Main Security System
 
