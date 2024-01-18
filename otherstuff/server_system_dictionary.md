@@ -145,7 +145,7 @@ TRS = Task Routing System
 
 UPS = Update Propagation Service
 
-VCS = Version Control System - ~~M&C  Hide Out~~
+VCS = Version Control System
 
 VMS = Virtualization Management Suite
 
