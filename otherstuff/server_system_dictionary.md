@@ -67,6 +67,8 @@ DNS = Domain Naming Service
 
 DTS = Documentation Tracking System
 
+EHF = Exception Handling Framework
+
 ETS = Event Tracking System
 
 EMS = Error Monitoring System
@@ -154,8 +156,6 @@ WCS = Workflow Coordination System
 WPS = Workflow Processing System
 
 XDS = XML Data Security
-
-XFS = Exception Handling Framework
 
 YMS = Yield Monitoring System
 
