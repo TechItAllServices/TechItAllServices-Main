@@ -34,7 +34,7 @@ Secuirty Flag = Somthing triggered a security flag. Like walking into a gate and
 
 Hacked = Somebody took over or broke the system.
 
-========Crital Imporant========
+===========Key=============
 
 
 ------------
