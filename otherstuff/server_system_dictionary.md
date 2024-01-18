@@ -36,6 +36,9 @@ Hacked = Somebody took over or broke the system.
 
 ========Crital Imporant========
 
+
+------------
+
 AAC = Authentication and Authorization Control
 
 ACI = Admin Control Interface
