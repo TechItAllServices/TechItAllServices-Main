@@ -1,10 +1,12 @@
 # Emergency Protocols
 
 ## Code Blue - Normal Protocol
+Level: 1
 
 Indicates regular functioning. All activities permitted.
 
 ## Code Green - Server Scanning Protocol
+Level: 2
   
 Heightened alert for suspicious activity. Normal activities permitted.
 
@@ -14,7 +16,8 @@ Be more vigilant and report suspicious activity to server security for intervent
 
 Note: Downloading is discouraged. Online games/play permitted. Websites are permitted.
 
-## Code Yellow - Unauthorized Access Attempt
+## Code Yellow - Hold and Secure Protocol
+Level: 3
 
 Indicates an attempt to breach server access.
 
@@ -22,7 +25,8 @@ Server admins to actively intervene and prevent unauthorized entry. Increased se
 
 Note: Downloading is suspended unless there TechItAll Services files. Online game/play suspended. Websites allowed.
 
-## Code Red - Intrusion Detected
+## Code Red - Lockdown Protocol
+Level: 4
 
 Confirmation of unauthorized presence within the servers.
 
@@ -31,6 +35,7 @@ Report to the safety domain. Downloading is suspended. All online services suspe
 Only sites approved by TechItAll Services are allowed.
 
 ## Code Black - Complete Takeover
+Level: 5
 
 
 Servers compromised, total loss of control.
