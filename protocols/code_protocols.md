@@ -44,6 +44,8 @@ Evacuate to the EVAC domain.
 
 All online services suspended, including TechItAll Services' websites.
 
+Code Black Will activate <a href="https://github.com/TechItAllServices/TechItAllServices-Main/blob/main/protocols/emergceny_protocols/EMERGCENY_DETONATION_PROTOCOL.md">EMERGCENY DETONATION PROTOCOL</a>
+  
 
 ## Code NULL/ERROR
 
