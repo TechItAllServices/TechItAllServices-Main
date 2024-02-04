@@ -1,7 +1,7 @@
 In the event of an unreliable alert status
 
 
-Code Red Ineffect
+Code Red In effect
 
 For Mods:
 
