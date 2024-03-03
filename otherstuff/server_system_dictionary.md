@@ -103,7 +103,7 @@ KVS = Key Validation Service
 
 LHS = Log Handling Service
 
-LRS = Load Balancer Redundancy System
+LBRS = Load Balancer Redundancy System
 
 MPS = Monitoring and Performance System
 
