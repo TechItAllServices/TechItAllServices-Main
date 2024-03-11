@@ -16,7 +16,7 @@ Level: 7
 
 Activated when the server's integrity reaches 1%, triggering emergency shield protocols.
 
-Despite the server's complete failure, the emergency shield system remains active to mitigate external threats during the evacuation process.
+Despite the server's almost complete failure, the emergency shield system remains active to mitigate external threats during the evacuation process.
 
 All communication and data transfer are suspended to prevent unauthorized access and data breaches.
 
