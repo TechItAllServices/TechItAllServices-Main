@@ -1,6 +1,6 @@
 # Code Crimson - Critical Server Integrity Alert Protocol
 
-Level: 6
+Level: 7
 
 Indicates a critical decline in server integrity, with only 5% remaining functional.
 
@@ -12,7 +12,7 @@ Technicians are immediately dispatched to assess the situation and implement urg
 
 # Code Sapphire - Emergency Shield Activation with 1% Integrity
 
-Level: 7
+Level: 8
 
 Activated when the server's integrity reaches 1%, triggering emergency shield protocols.
 
@@ -26,7 +26,7 @@ Code Sapphire remains in effect until the evacuation is completed, after which r
 
 # Code Obsidian - Server Total Colapse Protocol
 
-Level: 8
+Level: 9
 
 Signifies imminent complete server failure, with integrity reaching 0%.
 
