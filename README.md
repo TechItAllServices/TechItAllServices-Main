@@ -21,7 +21,7 @@ Description: Indicates an attempt to breach server access. Action: Server admins
 
 ### Code Red: Intrusion Detected
 
-Description: Confirmation of unauthorized presence within the servers. Action: Admins to report to the domain under attack. All non-essential personnel to evacuate the repo.
+Description: Confirmation of unauthorized presence within the servers. Action: Admins to report to the domain under attack. All non-essential personnel to evacuate the servers.
 
 ### Code Black: Complete Takeover
 
