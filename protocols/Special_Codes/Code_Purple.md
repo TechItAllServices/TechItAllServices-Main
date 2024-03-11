@@ -1,4 +1,4 @@
-Code Purple is "Emergceny Self-Destruct Secunce"
+# Code Purple - Emergceny Self-Destruct Secunce
 
 Do **NOT** Enter Any domains **including** the **EVAC** domain!
 
