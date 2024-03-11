@@ -2,7 +2,7 @@
 
 This will activate in a code black.
 
-Because of the servers being compermised do aviod any data being leaked or harful actions made by the server.
+Because of the servers being compermised do aviod any data being leaked or harmful actions made by the server.
 
 An Emergceny Destruction of the servers will happen.
 
