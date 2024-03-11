@@ -1,3 +1,5 @@
+# EMERGCENY DETONATION PROTOCOL
+
 This will activate in a code black.
 
 Because of the servers being compermised do aviod any data being leaked or harful actions made by the server.
