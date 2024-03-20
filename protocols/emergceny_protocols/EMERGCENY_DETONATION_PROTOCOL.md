@@ -1,6 +1,6 @@
 # EMERGCENY DETONATION PROTOCOL
 
-This will activate in a code purple.
+This will activate in a code black/purple.
 
 Because of the servers being compermised to do anything aviod any data being leaked or harmful actions made by the server. Or the Emergceny Destruct System was activated.
 
