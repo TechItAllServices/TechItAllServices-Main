@@ -42,13 +42,13 @@ Access to restricted data. Not much data, but some data.
 ### Level 2 Clearance - Confidential
 Access to confidential data. This is most non-imporant data regarding TIAS.
 ### Level 3 Clearance - Secret
-Access to secret data. This is all non-imporant data in TIAS and some little imporants data in regards to TIAS.
+Access to secret data. This is all non-imporant data in TIAS and some imporant data in regards to TIAS.
 ### Level 4 Clearance - Top Secret
-WIP
+Access to top secret data. This is all non-imporant data in TIAS and most imporant data in regards to TIAS.
 ### Level 5 Clearance - Council Secret
-WIP
+Access to Council data. This is all non-imporant data in TIAS and all imporant data in regards to TIAS. This also includes some Extreamly imporant data.
 ### Level 6 Clearance - Director Secret
-WIP
+Access to **All** data in TIAS.
 ## Repostory Protcalls
 
 ### Repo Creation
