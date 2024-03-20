@@ -40,9 +40,9 @@ This clearance is for anyone. This really is the "public" clearance.
 ### Level 1 Clearance - Restricted
 Access to restricted data. Not much data, but some data.
 ### Level 2 Clearance - Confidential
-Access to confidential data. This is most non-imporant things regarding TIAS.
+Access to confidential data. This is most non-imporant data regarding TIAS.
 ### Level 3 Clearance - Secret
-WIP
+Access to secret data. This is all non-imporant data in TIAS and some little imporants data in regards to TIAS.
 ### Level 4 Clearance - Top Secret
 WIP
 ### Level 5 Clearance - Council Secret
