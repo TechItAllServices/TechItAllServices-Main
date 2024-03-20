@@ -35,6 +35,7 @@ Description: Servers compromised, total loss of control. Action: Immediate evacu
 
 ## Clearance Levels
 **NOTE: Clearances Levels are differnt levels than keycards!**
+**NOTE: Clearance Levels are Differnt From Keycard Levels!**
 ### Level 0 Clearace - Unrestricted
 This clearance is for anyone. This really is the "public" clearance.
 ### Level 1 Clearance - Restricted
