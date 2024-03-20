@@ -2,6 +2,8 @@
 
 **NOTE: There will probably be more added to this!**
 
+# Classification Systems
+
 ## Alert Protcalls
 ### Code Blue: Normal Operations
 
@@ -30,6 +32,22 @@ Description: Servers compromised, total loss of control. Action: Immediate evacu
 
 **NOTE: For more avdanced Codes please check [The Code Protocols](https://github.com/TechItAllServices/TechItAllServices-Main/blob/main/protocols/code_protocols.md)**
 
+
+## Clearance Levels
+**NOTE: Clearances Levels are differnt levels than keycards!**
+### Level 0 Clearace - Unrestricted
+This clearance is for anyone. This really is the "public" clearance.
+### Level 1 Clearance - Restricted
+Access to restricted data. Not much data, but some data.
+### Level 2 Clearance - Confidential
+Access to confidential data. This is most non-imporant things regarding TIAS.
+### Level 3 Clearance - Secret
+WIP
+### Level 4 Clearance - Top Secret
+WIP
+### Level 5 Clearance - WIP
+WIP
+### Level 6 Clearance - WIP
 
 ## Repostory Protcalls
 
