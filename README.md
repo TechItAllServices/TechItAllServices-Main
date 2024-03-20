@@ -45,9 +45,9 @@ Access to confidential data. This is most non-imporant things regarding TIAS.
 WIP
 ### Level 4 Clearance - Top Secret
 WIP
-### Level 5 Clearance - WIP
+### Level 5 Clearance - Council Secret
 WIP
-### Level 6 Clearance - WIP
+### Level 6 Clearance - Director Secret
 WIP
 ## Repostory Protcalls
 
