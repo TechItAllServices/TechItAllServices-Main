@@ -17,10 +17,6 @@ Description: Heightened alert for suspicious activity. Action: Individuals to be
 
 Description: Indicates an attempt to breach server access. Action: Server admins to actively intervene and prevent unauthorized entry. Increased security measures activated.
 
-### ~~Code Orange: Impending Breach~~
-
-~~Description: Imminent threat to server integrity, potential breach imminent. Action: Admins to intensify efforts to prevent breach. Non-admins advised to move out of the repo.~~ (Note: Not Used Anymore!)
-
 ### Code Red: Intrusion Detected
 
 Description: Confirmation of unauthorized presence within the servers. Action: Admins to report to the domain under attack. All non-essential personnel to evacuate the servers.
@@ -80,21 +76,29 @@ Level 100 doesnt exist. The owner has Level 99 perms but level 100 is just to sa
 ## Clearance Levels
 **NOTE: Clearances Levels are differnt levels than keycards!**
 **NOTE: Clearance Levels are Differnt From Keycard Levels!**
+
 ### Level 0 Clearace - Unrestricted
 This clearance is for anyone. This really is the "public" clearance.
+
 ### Level 1 Clearance - Restricted
 Access to restricted data. Not much data, but some data.
+
 ### Level 2 Clearance - Confidential
 Access to confidential data. This is most non-imporant data regarding TIAS.
+
 ### Level 3 Clearance - Secret
 Access to secret data. This is all non-imporant data in TIAS and some imporant data in regards to TIAS.
+
 ### Level 4 Clearance - Top Secret
 Access to top secret data. This is all non-imporant data in TIAS and most imporant data in regards to TIAS.
+
 ### Level 5 Clearance - Council Secret
 Access to Council data. This is all non-imporant data in TIAS and all imporant data in regards to TIAS. This also includes some Extreamly imporant data.
+
 ### Level 6 Clearance - Director Secret
 Access to **All** data in TIAS.
-## Repostory Protcalls
+
+## Repository Protcalls
 
 ### Repo Creation
 
