@@ -35,25 +35,45 @@ Description: Servers compromised, total loss of control. Action: Immediate evacu
 
 ## Keycard Levels
 ### Level 1 Keycard - New Guy
+
 Access to level 1 systems
+
 ### Level 2 Keycard - Worker
+
 Access to level 2 systems
+
 Access To Terminal
+
 ### Level 3 Keycard - Manger
+
 Access to level 3 systems
+
 Access To Terminal
+
 ### Level 4 Keycard - Supervisor
+
 Access to level 4 systems
+
 Access To Terminal
+
 ### Level 5 Keycard - Executive
+
 Access to level 5 systems
+
 Access To Terminal
+
 ### Level 6 Keycard - Director
+
 Access to level 6 systems
+
 Access To Terminal
+
 ### Level 99 Keycard - Mod
+
 Mod Of TechItAll Services
+
 ### Level 100 - Owner
+
 Level 100 doesnt exist. The owner has Level 99 perms but level 100 is just to say that this is the owner and not a mod.
 
 
