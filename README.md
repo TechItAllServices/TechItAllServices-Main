@@ -74,8 +74,7 @@ Level 100 doesnt exist. The owner has Level 99 perms but level 100 is just to sa
 
 
 ## Clearance Levels
-**NOTE: Clearances Levels are differnt levels than keycards!**
-**NOTE: Clearance Levels are Differnt From Keycard Levels!**
+**NOTE: Clearances Levels are differnt than keycard levels!**
 
 ### Level 0 Clearace - Unrestricted
 This clearance is for anyone. This really is the "public" clearance.
