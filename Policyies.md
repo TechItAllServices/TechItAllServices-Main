@@ -1,6 +1,6 @@
 # TechItAll Services Policyies
 
-## Basic Policyies
+## 1.0: Basic Policyies
 ###  1.1: No spamming.
 ###  1.2: No bullying.
 ###  1.3: Do not use profanity.
