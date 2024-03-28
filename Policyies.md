@@ -23,4 +23,4 @@ Leaking of Council Secret data can lead the person who leaked the data to be put
 ### 2.6: Leaking of Director Secret Data (Level 6 Clearance)
 Leaking of Director Secret data can lead the person who leaked the data to be put on a special list witch will limit how often and how much that person can rank up. This WILL also result in a keycard demotion. This WILL also result in termination from TechItAll Services.
 ## 3.0: Keycard Level Up Block List
-As of data in [2.0](https://github.com/TechItAllServices/TechItAllServices-Main/edit/main/Policyies.md#20-data-leaking)
+As of data in 2.0
