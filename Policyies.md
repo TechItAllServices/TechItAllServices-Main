@@ -24,3 +24,26 @@ Leaking of Council Secret data can lead the person who leaked the data to be put
 Leaking of Director Secret data can lead the person who leaked the data to be put on a special list witch will limit how often and how much that person can rank up. This WILL also result in a keycard demotion. This WILL also result in termination from TechItAll Services.
 ## 3.0: Keycard Level Up Block List
 As of data in 2.0 the Keycard Level Up Block List is used to restrict or limit how often a user can rank up there keycard. To get off of this list, you will have to be good and follow rules.
+## 4.0: Security
+### 4.1: Security Questioning
+If you are deamed to be suspicious security personel can question you. If you do not comply or your answer are also suspicious, security personel are able to restrict your access to TechItAll Services.
+### 4.2: Security Authordy
+#### 4.2.1: Level 2 security
+- Able To Question someone.
+#### 4.2.2: Level 3 security
+- Able To Question someone.
+- Able To Detain someone.
+#### 4.2.3: Level 4 security
+- Able To Question someone.
+- Able To Detain someone.
+- Able To Restrict User's access.
+#### 4.2.4: Level 5+ security
+- Able To Question someone.
+- Able To Detain someone.
+- Able To Restrict User's access.
+- Able To Terminate You From TechItAll Services
+#### 4.2.5: What can I ask security personel?
+- You can ask security personel what there type of security they are.
+- You may ask what keycard level they are
+#### 4.2.6: Security Personel Help
+If you think a user should be Detained/Restricted/Terminal but don't have access for that, contact a higher up!
