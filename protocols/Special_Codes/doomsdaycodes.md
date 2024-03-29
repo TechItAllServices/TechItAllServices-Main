@@ -1,4 +1,4 @@
-# Code Crimson - Critical Server Integrity Alert Protocol
+# Code 7 - Critical Server Integrity Alert Protocol
 
 Level: 7
 
@@ -10,7 +10,7 @@ All non-essential operations are suspended, and resources are allocated to essen
 
 Technicians are immediately dispatched to assess the situation and implement urgent repairs.
 
-# Code Sapphire - Emergency Shield Activation with 1% Integrity
+# Code 8 - Emergency Shield Activation with 1% Integrity
 
 Level: 8
 
@@ -24,7 +24,7 @@ Specialized response teams work urgently to neutralize any remaining threats and
 
 Code Sapphire remains in effect until the evacuation is completed, after which recovery efforts can begin.
 
-# Code Obsidian - Server Total Colapse Protocol
+# Code 9 - Server Total Colapse Protocol
 
 Level: 9
 
