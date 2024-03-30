@@ -46,4 +46,4 @@ If you are deamed to be suspicious security personel can question you. If you do
 - You can ask security personel what there type of security they are.
 - You may ask what keycard level they are
 #### 4.2.6: Security Personel Help
-If you think a user should be Detained/Restricted/Terminal but don't have access for that, contact a higher up!
+If you think a user should be Detained/Restricted/Terminated but don't have access for that, contact a higher up!
