@@ -33,7 +33,7 @@ If you are deamed to be suspicious security personel can question you. If you do
 #### 4.2.2: Level 3 security
 - Able To Question someone.
 - Able To Detain someone.
-#### 4.2.3: Level 4 security
+#### 4.2.3: Level 4 security (Head Security)
 - Able To Question someone.
 - Able To Detain someone.
 - Able To Restrict User's access.
