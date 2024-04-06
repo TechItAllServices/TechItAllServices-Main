@@ -2,6 +2,8 @@
 
 Level: 6
 
+**NOTE: This can only be manualy activated!**
+
 All online services suspended, including TechItAll Services' websites.
 
 Do **NOT** Enter Any domains **including** the **EVAC** domain!
