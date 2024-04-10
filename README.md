@@ -34,7 +34,7 @@ Description: Servers compromised, total loss of control. Action: Immediate evacu
 
 Access to level 1 systems
 
-### Level 2 Keycard - Worker
+### Level 2 Keycard - Employe
 
 Access to level 2 systems
 
