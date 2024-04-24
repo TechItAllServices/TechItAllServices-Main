@@ -47,3 +47,16 @@ If you are deamed to be suspicious security personel can question you. If you do
 - You may ask what keycard level they are
 #### 4.2.6: Security Personel Help
 If you think a user should be Detained/Restricted/Terminated but don't have access for that, contact a higher up!
+## 5.0 Disciplinary Procedures
+### 5.1 Warn
+Get a verbal warn. It's as simple as that.
+### 5.2 Level Down
+You get demoted 1 or more keycards/clearances/permits.
+### 5.3 Level up block list
+You are not able to level up for a certian about of time. Time will vary.
+### 5.4 Investagation
+You will be investgated and there will be a trial. If you do not attend due to a lack of caring you will receive 5.6 as of punishment.
+### 5.5 Suppendsion
+You account has been suppended due to what happend. This means you can not access anything and your clearance/keycard will be set to level 0. You are not terminated tho and have a chance to be let back in. This can be appled up to 5 times.
+### 5.6 Terminated
+You have been removed from TIAS and there is one change to appeal. You may be let back in if the council desides so.
