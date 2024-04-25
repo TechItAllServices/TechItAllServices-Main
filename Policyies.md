@@ -27,7 +27,7 @@ As of data in 2.0 the Keycard Level Up Block List is used to restrict or limit h
 ## 4.0: Security
 ### 4.1: Security Questioning
 If you are deamed to be suspicious security personel can question you. If you do not comply or your answer are also suspicious, security personel are able to restrict your access to TechItAll Services.
-### 4.2: Security Authordy
+### 4.2: Security Authority
 #### 4.2.1: Level 2 security
 - Able To Question someone.
 #### 4.2.2: Level 3 security
@@ -56,7 +56,7 @@ You get demoted 1 or more keycards/clearances/permits.
 You are not able to level up for a certian about of time. Time will vary.
 ### 5.4 Investagation
 You will be investgated and there will be a trial. If you do not attend due to a lack of caring you will receive 5.6 as of punishment.
-### 5.5 Suppendsion
-You account has been suppended due to what happend. This means you can not access anything and your clearance/keycard will be set to level 0. You are not terminated tho and have a chance to be let back in. This can be appled up to 5 times.
+### 5.5 Suspendsion
+You account has been suspended due to what happend. This means you can not access anything and your clearance/keycard will be set to level 0. You are not terminated tho and have a chance to be let back in. This can be appealed up to 5 times.
 ### 5.6 Terminated
-You have been removed from TIAS and there is one change to appeal. You may be let back in if the council desides so.
+You have been removed from TIAS and there is one chance to appeal. You may be let back in if the council desides so.
