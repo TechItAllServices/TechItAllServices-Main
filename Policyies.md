@@ -57,6 +57,9 @@ You are not able to level up for a certian about of time. Time will vary.
 ### 5.4 Investagation
 You will be investgated and there will be a trial. If you do not attend due to a lack of caring you will receive 5.6 as of punishment.
 ### 5.5 Suspendsion
-You account has been suspended due to what happend. This means you can not access anything and your clearance/keycard will be set to level 0. You are not terminated tho and have a chance to be let back in. This can be appealed up to 5 times.
+You account has been suspended due to what happend. This means you can not access anything and your clearance/keycard will be set to level 0. You are not terminated though and have a chance to be let back in. This can be appealed up to 5 times.
 ### 5.6 Terminated
 You have been removed from TIAS and there is one chance to appeal. You may be let back in if the council desides so.
+## 6.0 Miscellaneous
+### 6.1 External Chat Sites
+The use of external chat siites to talk about anything level 1+ clearance is not permited. Discord is Ok if in the TIAS discord and right channel/vc.
