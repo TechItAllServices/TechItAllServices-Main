@@ -66,7 +66,7 @@ The use of external chat siites to talk about anything level 1+ clearance is not
 ## 7.0 Terminal Rules & Use
 ### 7.1 Files
 If you have forgotten your password, please refer to Section 7.3. You are prohibited from accessing any terminal files other than "RUNME.py" or "PBBRUNME.py." Any violation of this policy will result in disciplinary action. Please refer to 5.0. For disciplinary actions.
-## 7.2 Dont use for harm
+### 7.2 Dont use for harm
 Do not use the terminal aginst the servers. If you have access to the terminal you are trusted. If you use the terminal aginst the servers you will be punished from 5.0.
-## 7.3 Lost Password
+### 7.3 Lost Password
 If you lost your password please contact a Admin (Level 99) for help.
