@@ -15,4 +15,4 @@ When Fixed - Mods:
 
 Renable Server Alert Status
 
-Brotcast message saying its all clear
+Broadcast message saying its all clear
