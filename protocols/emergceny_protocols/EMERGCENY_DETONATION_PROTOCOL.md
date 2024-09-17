@@ -7,4 +7,4 @@ Because of the servers being compermised to do anything aviod any data being lea
 An Emergceny Destruction of the servers will happen.
 
 There is a **10 MIN** countdown till the servers are destoryed.
-All server personnel is to evacuate to the **EVAC DOIMAN** the second code black is called. Code black instrustion are in effect!
+All server personnel is to evacuate to the **EVAC DOMAIN** the second code black is called. Code black instrustion are in effect!
