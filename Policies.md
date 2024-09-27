@@ -1,4 +1,4 @@
- # TechItAll Services Policyies
+ # TechItAll Services Policies
 
 ## 1.0: Basic Policies
 ###  1.1: No spamming.
