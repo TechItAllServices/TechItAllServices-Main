@@ -64,13 +64,13 @@ Access to level 6 systems
 
 Access To Terminal
 
-### Level 99 Keycard - Mod
+### Level 99 Keycard - Administrator
 
-Mod Of TechItAll Services
+Administrator Of TechItAll Services
 
 ### Level 100 - Owner
 
-Level 100 doesnt exist. The owner has Level 99 perms but level 100 is just to say that this is the owner and not a mod.
+Owner of TechItAll Services.
 
 
 ## Clearance Levels
