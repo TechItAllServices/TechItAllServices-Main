@@ -1,6 +1,9 @@
 # TechItAllServices-Main
 
-**NOTE: There will probably be more added to this!**
+> [!IMPORTANT]  
+> TechItAllServices has been archived.
+
+<!-- **NOTE: There will probably be more added to this!** -->
 
 # Classification Systems
 
